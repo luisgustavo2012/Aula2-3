@@ -57,8 +57,7 @@ Esses computadores são ideais para quem gosta de jogar jogos mais pesados, como
 </main>
 <footer>
     <p>2025</p>
-    <p>Somente um teste para ver se funciona</p>
-    <img src="emoji.jpg" width = "20" height="20">
+    <p>Somente um teste para ver se funciona</p><img src="emoji.jpg" width = "20" height="20">
 </footer>
 </body>
 </html>
