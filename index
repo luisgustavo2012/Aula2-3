@@ -10,11 +10,11 @@
     <header>
         <center><img src="computador.jpg" alt="imagem de um computador"></center>
     </header>
-<nav>
+<center><nav>
     <a href="https://www.pichau.com.br/?gad_source=1&gclid=EAIaIQobChMIjra97YjRjAMVUyRECB18YyCQEAAYASAAEgIRW_D_BwE">pichau</a>
     <a href="https://www.kabum.com.br/?utm_id=72385815&gad_source=1&gclid=EAIaIQobChMI48bNhYrRjAMVUEFIAB26kjs7EAAYASAAEgKuLfD_BwE">Kabum</a>
-</nav>
-<h2>Exemplos de Computadores</h2>
+</nav></center>
+<h2><center>Exemplos de Computadores</center></h2>
 <center><table>
     <tr>
       <td><img src="jogo.jpg" alt="imagem de um jogos"></td>
@@ -30,9 +30,31 @@
 
 
 <main>
-<section> </section>
-<article> </article>
-<article></article>
+<section> 
+    <h3>Função dos dois tipod de computadores</h3>
+</section>
+<article> 
+    <h4>Computadores para jogos</h4>
+    <p>
+        PCs gamers, são computadores projetados especialmente para rodar jogos com alta qualidade gráfica e desempenho. Eles têm componentes mais potentes que os computadores comuns, como:
+    Placa de vídeo dedicada (GPU) – para gráficos mais realistas e suaves
+    Processador rápido (CPU) – para lidar com o funcionamento dos jogos
+    Mais memória RAM – para rodar tudo sem travar
+    Armazenamento rápido (SSD) – para carregar jogos e arquivos mais rapidamente
+Esses computadores são ideais para quem gosta de jogar jogos mais pesados, como Call of Duty, GTA, FIFA ou Fortnite.
+    </p>
+</article>
+<article>
+    <h5>Computador para Trabalho</h5>
+    <p>
+        Computadores para trabalho são montados ou escolhidos pensando nas tarefas do dia a dia, como:
+    Navegar na internet
+    Usar programas de escritório (Word, Excel, PowerPoint)
+    Fazer reuniões online
+    Trabalhar com planilhas, textos, sistemas de empresas
+    Em alguns casos, editar vídeos ou imagens, programar ou criar designs
+    </p>
+</article>
 </main>
 <footer></footer>
 </body>
