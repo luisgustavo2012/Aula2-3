@@ -28,7 +28,6 @@
     
 </table></center>
 
-
 <main>
 <section> 
     <h3>Função dos dois tipod de computadores</h3>
@@ -56,6 +55,10 @@ Esses computadores são ideais para quem gosta de jogar jogos mais pesados, como
     </p>
 </article>
 </main>
-<footer></footer>
+<footer>
+    <p>2025</p>
+    <p>Somente um teste para ver se funciona</p>
+    <img src="emoji.jpg" width = "20" height="20">
+</footer>
 </body>
 </html>
