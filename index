@@ -7,8 +7,24 @@
 </head>
 <body>
     <h1><center>Computadores</center></h1>
-    <header><img src="computador.jpg" alt="imagem de um computador"></header>
-<nav></nav>
+    <header>
+        <center><img src="computador.jpg" alt="imagem de um computador"></center>
+    </header>
+<nav>
+    <a href="https://www.pichau.com.br/?gad_source=1&gclid=EAIaIQobChMIjra97YjRjAMVUyRECB18YyCQEAAYASAAEgIRW_D_BwE">pichau</a>
+    <a href="https://www.kabum.com.br/?utm_id=72385815&gad_source=1&gclid=EAIaIQobChMI48bNhYrRjAMVUEFIAB26kjs7EAAYASAAEgKuLfD_BwE">Kabum</a>
+</nav>
+<h2>Exemplos de Computadores</h2>
+<table>
+    <tr>
+      <img src="computador.jpg" alt="imagem de um jogos">
+      <img src="computador.jpg" alt="imagem de um trabalho">  
+    </tr>
+    
+</table>
+
+
+
 <main>
 <section> </section>
 <article> </article>
