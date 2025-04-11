@@ -16,13 +16,17 @@
 </nav>
 <h2>Exemplos de Computadores</h2>
 <table>
-    <tr>
-      <img src="computador.jpg" alt="imagem de um jogos">
-      <img src="computador.jpg" alt="imagem de um trabalho">  
-    </tr>
+    <center><tr>
+      <img src="jogo.jpg" alt="imagem de um jogos">
+      <img src="trabalho.jpg" alt="imagem de um trabalho">  
+    </tr></center>
+    <center><tr>
+        <p>Computador para Jogos</p>
+        <p>Computador para trabalho</p>
+
+    </tr></center>
     
 </table>
-
 
 
 <main>
