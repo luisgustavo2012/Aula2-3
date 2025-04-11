@@ -6,6 +6,12 @@
     <title>Nada de mais</title>
 </head>
 <body>
+    <style>
+        body {
+          background-color: #caf7e4;
+          font-family: Arial, sans-serif;
+        }
+        </style>
     <h1><center>Computadores</center></h1>
     <header>
         <center><img src="computador.jpg" alt="imagem de um computador"></center>
@@ -33,7 +39,7 @@
     <h3>Função dos dois tipod de computadores</h3>
 </section>
 <article> 
-    <h4>Computadores para jogos</h4>
+    <h4><strong>Computador para jogos</strong></h4>
     <p>
         PCs gamers, são computadores projetados especialmente para rodar jogos com alta qualidade gráfica e desempenho. Eles têm componentes mais potentes que os computadores comuns, como:
     Placa de vídeo dedicada (GPU) – para gráficos mais realistas e suaves
@@ -44,7 +50,7 @@ Esses computadores são ideais para quem gosta de jogar jogos mais pesados, como
     </p>
 </article>
 <article>
-    <h5>Computador para Trabalho</h5>
+    <h5><strong>Computador para Trabalho</strong></h5>
     <p>
         Computadores para trabalho são montados ou escolhidos pensando nas tarefas do dia a dia, como:
     Navegar na internet
